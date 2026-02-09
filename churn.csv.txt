@@ -1,6 +1,0 @@
- gender,SeniorCitizen,Partner,Dependents,tenure,PhoneService,Churn
-Female,0,Yes,No,12,Yes,No
-Male,1,No,No,5,Yes,Yes
-Female,0,Yes,Yes,24,Yes,No
-Male,0,Yes,No,36,Yes,No
-Female,1,No,No,8,Yes,Yes
